@@ -31,8 +31,6 @@ public class ClienteDTO implements Serializable {
 		email = obj.getEmail();
 	}
 
-
-
 	public Integer getId() {
 		return id;
 	}
